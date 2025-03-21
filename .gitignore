@@ -2,3 +2,14 @@
 # Whitelist only what should be tracked
 *
 !/.gitignore
+
+!/composer.json
+!/composer.lock
+!/docker-compose.yml
+!/Dockerfile
+!/index.php
+
+!/src
+!/src/**
+!/tests
+!/tests/**
